@@ -1,0 +1,7 @@
+# Union merge strategy for markdown files
+# This preserves BOTH changes from conflicting edits
+*.md merge=union
+
+# Keep line endings consistent across platforms
+* text eol=lf
+*.bat text eol=crlf
