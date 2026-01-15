@@ -1,0 +1,17 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "📄Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "📄Resources": {
+      "children": [],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "50edb85c703d7fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75793f2ae2424c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42c6946cf5ce4fcb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78eef03a540cc61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc8641cebf82ced",
+        "type": "tabs",
+        "dimension": 66.06382978723404,
+        "children": [
+          {
+            "id": "51e1399b7bd61376",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d420926c48231471",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bf7e0079c4f64653",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc2451a9ba0daf3b",
+        "type": "tabs",
+        "dimension": 33.93617021276596,
+        "children": [
+          {
+            "id": "d4ebf0b655b4d93d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "7c77064ba79e01f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "696a482881dbbd80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31dce8f2be4ba229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data_Structures_&_Algorithms/Searching/Graph_&_Tree/Breadth First Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Breadth First Search"
+            }
+          },
+          {
+            "id": "80bcba2838c4bdd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data_Structures_&_Algorithms/Searching/Graph_&_Tree/Breadth First Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Breadth First Search"
+            }
+          },
+          {
+            "id": "e0d6f362ca44a40c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c826bb8401911f63",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cec0d618f6f0bbae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data_Structures_&_Algorithms/Searching/Graph_&_Tree/Breadth First Search.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Breadth First Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "random-note:Open random note": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "simple-sketch:Simple Sketch": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "51e1399b7bd61376",
+  "lastOpenFiles": [
+    "README.md",
+    "Saarthak-s_Headspace/README.md",
+    "Saarthak-s_Headspace",
+    "Cellular Layouts.md",
+    "Startup/Email Setup/quick_start_checklist.md",
+    "Startup/Email Setup/email_templates_bundle.md",
+    "Test.md",
+    "Github Sync Key.md",
+    "github-recovery-codes.txt",
+    "Reasearch/Shivasheesh-Summer_Term/Paper Layout.md",
+    "Reasearch/Shivasheesh-Summer_Term/Rev2/sections/Product Selection- Strategic Rationale for Insulation Panels.md",
+    "Reasearch/Shivasheesh-Summer_Term/Rev2/sections/Introduction.md",
+    "Physics/Nuclear & Particle Physics/Natural Units.md",
+    "Physics/Nuclear & Particle Physics/Multi-Particle Systems & Collisions.md",
+    "Psychology/Approaching Strangers.md",
+    "Programming/Languages/Latex.md",
+    "Psychology",
+    "Mechanical Engineering/Manufacturing Management.md",
+    "Mechanical Engineering/Manufacturing Management/Qualitative Method/Weighted Moving Average Forecasts.md",
+    "Agro-Myco-Report.md",
+    "📄Resources/Introduction_Arid&Semi-AridRegionsMap.png",
+    "📄Resources/Gemini_Generated_Image_i4pi79i4pi79i4pi.png",
+    "Programming/Operating Systems/Linux.md",
+    "Programming/Operating Systems/Linux/System/Update or Install Nvidia Graphic Drivers.md",
+    "Programming/Operating Systems/Linux/System/Install Lenovo Legion Linux.md",
+    "Mechanical Engineering/Manufacturing Management/Qualitative Method/Exponential Smoothing.md",
+    "Mechanical Engineering/Manufacturing Management/Qualitative Method/Moving Average Forecasts.md",
+    "Mechanical Engineering/Manufacturing Management/Qualitative Method/Naive.md",
+    "Mechanical Engineering/Manufacturing Management/Qualitative Method",
+    "Mechanical Engineering/Manufacturing Management/Inventory Management/Economic Order Quantity (EOQ).md",
+    "Mechanical Engineering/Manufacturing Management/Inventory Management/Production Order Quantity (POQ).md",
+    "Mechanical Engineering/Manufacturing Management/Inventory Management/Quantity Discount Model.md",
+    "📄Resources/Production Order Quantity (POQ) - Lnventory Level 2.png",
+    "📄Resources/Production Order Quantity (POQ) - Inventory Level.png",
+    "📄Resources/Economic Order Quantity (EOQ) - Safety Stock.png",
+    "📄Resources/Economic Order Quantity (EOQ) - Average Inventory Level and Number of Orders.png",
+    "📄Resources/Economic Order Quantity (EOQ) - Q vs Annual Cost.png",
+    "📄Resources/Basic Economic Order Quantity (EOQ) - Inventory Cycle.png",
+    "Mechanical Engineering/Manufacturing Management/Inventory Management",
+    "📄Resources/Backscattered Electrons (BSE) BSE vs Z.png",
+    "📄Resources/Backscattered Electrons (BSE) BSE2.png",
+    "Physics/Thin Film Technology",
+    "Physics/Nuclear & Particle Physics/Particle Physics",
+    "Physics/Nuclear & Particle Physics/Radioactive Decay",
+    "Physics/Nuclear & Particle Physics/Rutherford Experiment",
+    "Physics/Nuclear & Particle Physics/Basics"
+  ]
+}

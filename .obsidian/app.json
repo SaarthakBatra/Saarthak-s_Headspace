@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "attachmentFolderPath": "📄Resources",
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
