@@ -15,5 +15,5 @@ Thumbs.db
 *.swo
 
 # Optional: Per-device settings
-.obsidian/plugins/**
-.obsidian/themes/**
+.obsidian/plugins
+.obsidian/themes
