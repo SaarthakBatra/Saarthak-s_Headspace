@@ -3,7 +3,6 @@
   "auto-card-link",
   "obsidian-paste-image-rename",
   "reveal-active-file-button",
-  "manual-sorting",
   "obsidian-icon-folder",
   "pixel-perfect-image",
   "obsidian-image-toolkit",
@@ -21,5 +20,7 @@
   "dataview",
   "obsidian-dynamic-highlights",
   "editor-width-slider",
-  "novel-word-count"
+  "novel-word-count",
+  "custom-sort",
+  "templater-obsidian"
 ]

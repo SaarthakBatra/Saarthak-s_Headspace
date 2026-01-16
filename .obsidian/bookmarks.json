@@ -1,0 +1,249 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1768547295888,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1768547295888,
+          "path": "📁 Explore.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1768547309083,
+          "items": [],
+          "title": "📄Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1768547629928,
+          "items": [],
+          "title": "🧬Templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1768547625060,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1768549547717,
+              "items": [],
+              "title": "Computer Science"
+            },
+            {
+              "type": "group",
+              "ctime": 1768549547717,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768549695592,
+                  "path": "Subjects/Mechanical Engineering/Mechanical Engineering.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768550026868,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768550026868,
+                      "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Design of Machine Elements.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768550780057,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768550780057,
+                          "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Screws, Fasteners, and the Design of Non-permanent Joints.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768550793434,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768550793434,
+                              "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Bolted Joints under Eccentric Loading/Bolted & Riveted Joints under Eccentric Loading.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Bolted Joints under Eccentric Loading"
+                        }
+                      ],
+                      "title": "Screws, Fasteners, and the Design of Non-permanent Joints"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768551680652,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768551680652,
+                          "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Welding and Permanent Joints.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768551759118,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768551759118,
+                              "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Fillet Joints/Fillet Joints.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Fillet Joints"
+                        }
+                      ],
+                      "title": "Welding and Permanent Joints"
+                    }
+                  ],
+                  "title": "Design of Machine Elements"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768552360975,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768552360975,
+                      "path": "Subjects/Mechanical Engineering/Engines, Motors & Mobility/Engines, Motors & Mobility.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768552574587,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768552574587,
+                          "path": "Subjects/Mechanical Engineering/Engines, Motors & Mobility/Engine/Engine.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768552583700,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768552583700,
+                              "path": "Subjects/Mechanical Engineering/Engines, Motors & Mobility/Engine/Reciprocating Engine/Reciprocating Engine.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Reciprocating Engine"
+                        }
+                      ],
+                      "title": "Engine"
+                    }
+                  ],
+                  "title": "Engines, Motors & Mobility"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768557264127,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768557264127,
+                      "path": "Subjects/Mechanical Engineering/Manufacturing Management/Manufacturing Management.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768558463652,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768558463652,
+                          "path": "Subjects/Mechanical Engineering/Manufacturing Management/Inventory Management/Inventory Management.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Inventory Management"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768558718812,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768558718812,
+                          "path": "Subjects/Mechanical Engineering/Manufacturing Management/Planning Facilities/Planning Facilities.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768557893897,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768557893898,
+                              "path": "Subjects/Mechanical Engineering/Manufacturing Management/Planning Facilities/Product Layouts/Product Layouts.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "\\\\Product Layouts"
+                        }
+                      ],
+                      "title": "Planning Facilities"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768558960169,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768558964079,
+                          "path": "Subjects/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Forecasting Methods.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768558212519,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768558212519,
+                              "path": "Subjects/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Quantitative Methods/Quantitative Methods.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "\\\\Quantitative Methods"
+                        }
+                      ],
+                      "title": "Forecasting Methods"
+                    }
+                  ],
+                  "title": "Manufacturing Management"
+                }
+              ],
+              "title": "Mechanical Engineering"
+            },
+            {
+              "type": "group",
+              "ctime": 1768549547717,
+              "items": [],
+              "title": "Physics"
+            }
+          ],
+          "title": "Subjects"
+        },
+        {
+          "type": "file",
+          "ctime": 1768547309083,
+          "path": "README.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
