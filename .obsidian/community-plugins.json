@@ -1,5 +1,4 @@
 [
-  "dataview",
   "obsidian-trash-explorer",
   "auto-card-link",
   "obsidian-paste-image-rename",
@@ -10,9 +9,6 @@
   "obsidian-image-toolkit",
   "obsidian-export-image",
   "simple-sketch",
-  "editor-width-slider",
-  "novel-word-count",
-  "obsidian-dynamic-highlights",
   "ninja-cursor",
   "obsidian-cursor-location-plugin",
   "remember-cursor-position",
@@ -21,5 +17,9 @@
   "omnisearch",
   "restore-tab-key",
   "obsidian-languagetool-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-dynamic-highlights",
+  "editor-width-slider",
+  "novel-word-count"
 ]
