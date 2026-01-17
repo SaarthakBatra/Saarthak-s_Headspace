@@ -5,8 +5,11 @@
 1. [[Naive]]
 2. [[Moving Average Forecasts]]
 3. [[Weighted Moving Average Forecasts]]
-4. Exponential Smothening
+4. [[Exponential Smoothing]]
 5. Trend Projection
 #### Regression Methods
 1. Linear Regression
 2. Multiple Regression
+
+---
+#incomplete

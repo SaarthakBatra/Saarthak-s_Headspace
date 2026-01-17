@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) >  [[Engine]] > Compression Ignition Engine
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) > [Engine](obsidian://open?vault=5aabe01b2a639311&file=Engine) > Compression Ignition Engine
 
 ---
 - Works on the Diesel Cycle
@@ -76,3 +76,5 @@ The air standard cycle for CI engine
 - Combustion process of **early CI engines** is best approximated by a constant heat addition process $\to$ **Diesel Cycle**
 - Combustion process of **modern CI engines** is best approximated by a combination of constant volume and constant pressure process $\to$ **Dual Cycle**
 ![[Earlier vs Modern CI Engine.png]]
+
+---

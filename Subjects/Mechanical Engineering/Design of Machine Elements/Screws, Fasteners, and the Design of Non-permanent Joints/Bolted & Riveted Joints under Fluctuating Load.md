@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [[Screws, Fasteners, and the Design of Non-permanent Joints]] > Bolted & Riveted Joints under Fluctuating Load
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Screws, Fasteners, and the Design of Non-permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Screws,%20Fasteners,%20and%20the%20Design%20of%20Non-permanent%20Joints) > Bolted & Riveted Joints under Fluctuating Load
 
 ---
 If external load on a bolt varies from $0$ to $P$ then,
@@ -122,3 +122,6 @@ P_{max} = 58697.24N\implies &\sigma_t=\frac{P_{max}}{A} = 227.51\ N/mm^2 \\
 \therefore\ \ \ \ fs = \frac{S_{yt}}{\sigma_t} &= \frac{850}{227.51}=3.74
 \end{align}
 $$
+
+
+---

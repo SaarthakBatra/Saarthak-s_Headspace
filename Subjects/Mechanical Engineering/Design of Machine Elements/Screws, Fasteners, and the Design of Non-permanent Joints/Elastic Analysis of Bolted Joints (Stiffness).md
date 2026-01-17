@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [[Screws, Fasteners, and the Design of Non-permanent Joints]] > Elastic Analysis of Bolted Joints (Stiffness)
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Screws, Fasteners, and the Design of Non-permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Screws,%20Fasteners,%20and%20the%20Design%20of%20Non-permanent%20Joints) > Elastic Analysis of Bolted Joints (Stiffness)
 
 ---
 ![[Elastic Analysis of Bolted Joints (Stiffness) - bolted joint in tension.png#align-right|Bolted Joint in Tension|400]]
@@ -32,3 +32,5 @@
 	2. Hard Gasket
 		$k_c' >> k_b' \implies \frac{k_c'}{k_b'} \to \infty \implies C = 0$
 		Hence, $P_b = P_i$	
+
+---

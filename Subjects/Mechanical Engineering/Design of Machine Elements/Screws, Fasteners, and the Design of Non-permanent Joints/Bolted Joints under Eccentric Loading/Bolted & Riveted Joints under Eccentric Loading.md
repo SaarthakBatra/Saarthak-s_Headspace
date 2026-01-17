@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [[Screws, Fasteners, and the Design of Non-permanent Joints]] > Bolted Joints under Eccentric Loading
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Screws, Fasteners, and the Design of Non-permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Screws,%20Fasteners,%20and%20the%20Design%20of%20Non-permanent%20Joints) > [Bolted Joints under Eccentric Loading](obsidian://open?vault=5aabe01b2a639311&file=Bolted%20Joints%20under%20Eccentric%20Loading) > Bolted & Riveted Joints under Eccentric Loading
 
 ---
 ## Cases of Applied Load
@@ -39,3 +39,6 @@ We know, $F_s = \frac{\pi}{4}d_c^2\tau$
 i.e $9632.2 = \frac{\pi}{4}d_c^2\times65$
 $\implies d_c = 13.7mm$
 $\therefore\ \ d = 1.2d_c = 16.44mm$
+
+
+---

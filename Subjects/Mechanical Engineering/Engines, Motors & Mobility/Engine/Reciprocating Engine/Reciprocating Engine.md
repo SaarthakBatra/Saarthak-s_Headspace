@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) >  [[Engine]] > Reciprocating Engine
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) > [Engine](obsidian://open?vault=5aabe01b2a639311&file=Engine) > Reciprocating Engine
 
 ---
 ## Components of a Reciprocating Engine
@@ -62,3 +62,5 @@
 	where,
 		$L$ = Stroke
 		$N$ = Rotational Speed of Crankshaft (rpm)
+
+---

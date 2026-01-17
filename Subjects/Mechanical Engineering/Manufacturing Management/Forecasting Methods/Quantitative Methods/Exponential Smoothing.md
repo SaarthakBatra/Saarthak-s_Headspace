@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Forecasting Methods](obsidian://open?vault=5aabe01b2a639311&file=Forecasting%20Methods) > [[Quantitative Methods]] > Exponential Smoothing
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Forecasting Methods](obsidian://open?vault=5aabe01b2a639311&file=Forecasting%20Methods) > [Quantitative Methods](obsidian://open?vault=5aabe01b2a639311&file=Quantitative%20Methods) > Exponential Smoothing
 
 ---
 A weighted moving average forecasting techniques in which data points are weighted by an exponential function
@@ -13,3 +13,7 @@ $$F_t = F_{t-1}+\alpha(A_{t-1} - F_{t-1})$$
 	- $(A-F)$ = Error term
 
 ## Smoothing Constant
+
+
+---
+#incomplete

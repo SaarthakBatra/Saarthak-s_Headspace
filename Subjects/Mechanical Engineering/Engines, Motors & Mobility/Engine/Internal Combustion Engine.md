@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) > [[Engine]] > Internal Combustion Engine
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) > [Engine](obsidian://open?vault=5aabe01b2a639311&file=Engine) > Internal Combustion Engine
 
 ---
 The engine gets it's motive force from the combustion or the burning of mixture of fuel and oxygen inside an engine. The part of engine where combustion occurs is known as Piston-cylinder or  combustion chamber.
@@ -51,3 +51,6 @@ The engine gets it's motive force from the combustion or the burning of mixture 
 9. Crankshaft
 10. Crankcase
 11. Spark Plug / Fuel Injector
+
+---
+#incomplete

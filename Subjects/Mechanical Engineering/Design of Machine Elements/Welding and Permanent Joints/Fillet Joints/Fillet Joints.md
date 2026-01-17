@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [[Welding and Permanent Joints]] > Fillet Joints
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Welding%20and%20Permanent%20Joints) > Fillet Joints
 
 ---
 ![[Fillet Joints - types.png#align-right|Types of Fillet Joints|400]]
@@ -20,3 +20,5 @@
 1. [[Eccentric Loading in the Plane of Weld]]
 2. [[Bending Moment on Weld]]
 3. [[Torsional Moment on Weld]]
+
+---

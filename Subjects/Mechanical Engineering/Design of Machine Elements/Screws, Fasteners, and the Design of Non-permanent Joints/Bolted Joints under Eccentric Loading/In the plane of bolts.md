@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Screws, Fasteners, and the Design of Non-permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Screws,%20Fasteners,%20and%20the%20Design%20of%20Non-permanent%20Joints) > [[Bolted & Riveted Joints under Eccentric Loading]] > In the plane of bolts
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Screws, Fasteners, and the Design of Non-permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Screws,%20Fasteners,%20and%20the%20Design%20of%20Non-permanent%20Joints) > [Bolted Joints under Eccentric Loading](obsidian://open?vault=5aabe01b2a639311&file=Bolted%20Joints%20under%20Eccentric%20Loading) > In the plane of bolts
 
 ---
 ![[In the plane of bolts.png#align-right|Eccentrically Loaded Bolted Connection|400]]
@@ -32,3 +32,6 @@
 	n = number of bolts
 
 ## Equivalent Shear Load - $F_{s_{eq}} = \sqrt{F_{s_1}^2 + F_{s_2}^2 + 2F_{s_1}F_{s_2}cos\theta}$
+
+
+---

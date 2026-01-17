@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Screws, Fasteners, and the Design of Non-permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Screws,%20Fasteners,%20and%20the%20Design%20of%20Non-permanent%20Joints) > [[Bolted & Riveted Joints under Eccentric Loading]] > Perpendicular to axis of bolts
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Screws, Fasteners, and the Design of Non-permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Screws,%20Fasteners,%20and%20the%20Design%20of%20Non-permanent%20Joints) > [Bolted Joints under Eccentric Loading](obsidian://open?vault=5aabe01b2a639311&file=Bolted%20Joints%20under%20Eccentric%20Loading) > Perpendicular to axis of bolts
 
 ---
 
@@ -34,3 +34,6 @@
 ## Equivalent Tensile Load - $F_{t_{eq}} = \frac{1}{2}[\ F_t + \sqrt{F_t^2 + 4F_s^2}\ ]$
 
 ## Equivalent Shear Load - $F_{s_{eq}} = \frac{1}{2}[\ \sqrt{F_t^2 + 4F_s^2}\ ]$
+
+
+---

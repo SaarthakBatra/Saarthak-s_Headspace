@@ -23,23 +23,16 @@ const parentNote = (folders[folders.length - 1] === newName)? 1 : 0;
 
 folders.forEach((folderName, index) => {
     const isImmediateParent = (index === folders.length - 1 - parentNote);
-
-	if (folderName === 'Subjects' || folderName === newName) return;
-    const encodedName = folderName.replace(/ /g, "%20").replace(/&/g, "%26");
-	const uri = `obsidian://open?vault=${vaultId}&file=${encodedName}`;
-	
-	breadcrumbParts.push(`[${folderName}](${uri})`);
-    
-    //else if (isImmediateParent) //breadcrumbParts.push(`[[${folderName}]]`); // Immediate //Parent -> Wiki Link [[ ]]
-    //else {
-    //   // Ancestors (Grandparents) -> Obsidian URI Link [ ]( )
-    //    // Encodes ' ' to %20 and '&' to %26 as requested
-    //    const encodedName = folderName.replace(/ /g, //"%20").replace(/&/g, "%26");
-    //    const uri = `obsidian://open?vault=${vaultId}&file=${encodedName}`;
-    //    
-    //    breadcrumbParts.push(`[${folderName}](${uri})`);
-	//}
-});
+    else if (isImmediateParent) breadcrumbParts.push(`[[${folderName}]]`); // Immediate Parent -> Wiki Link [[ ]]
+    else {
+        // Ancestors (Grandparents) -> Obsidian URI Link [ ]( )
+        // Encodes ' ' to %20 and '&' to %26 as requested
+        const encodedName = folderName.replace(/ /g, "%20").replace(/&/g, "%26");
+        const uri = `obsidian://open?vault=${vaultId}&file=${encodedName}`;
+        
+        breadcrumbParts.push(`[${folderName}](${uri})`);
+	 }
+);
 
 // 4. Output the full trail > Current Title
 if (breadcrumbParts.length > 0) {

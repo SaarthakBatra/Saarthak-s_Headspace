@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [[Inventory Management]] > Quantity Discount Model
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Inventory Management](obsidian://open?vault=5aabe01b2a639311&file=Inventory%20Management) > Quantity Discount Model
 
 ---
 Integrating quantity discounts in EOQ
@@ -22,3 +22,7 @@ Integrating quantity discounts in EOQ
 - Annual Demand = $D$
 ### Total Annual Cost
 $$\text{Total cost} = \frac{C_0 D}{Q}+\frac{C_CI_{max}}{2}+PD$$
+
+
+---
+#incomplete

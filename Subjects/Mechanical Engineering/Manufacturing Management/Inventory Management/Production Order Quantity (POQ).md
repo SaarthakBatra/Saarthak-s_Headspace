@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [[Inventory Management]] > Production Order Quantity (POQ)
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Inventory Management](obsidian://open?vault=5aabe01b2a639311&file=Inventory%20Management) > Production Order Quantity (POQ)
 
 ---
 Used when units are produced and sold simultaneously i.e order is received gradually as inventory is simultaneously depleted
@@ -32,3 +32,6 @@ $$\text{Total cost} = \frac{C_0 D}{Q}+\frac{C_CI_{max}}{2}$$
 	- Number of production runs, $N=\frac{D}{Q}$
 	- Expected time b/w orders = $\frac{\text{Total Time Period}}{N}$
 	- 
+
+---
+#incomplete

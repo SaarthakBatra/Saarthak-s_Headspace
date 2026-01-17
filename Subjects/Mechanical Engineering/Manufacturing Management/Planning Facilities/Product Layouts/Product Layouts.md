@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [[Planning Facilities]] > Product Layouts
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Planning Facilities](obsidian://open?vault=5aabe01b2a639311&file=Planning%20Facilities) > Product Layouts
 
 ---
 - Product layout arranges machines or workers in a line according to the sequence of operations that need to be performed to assemble a particular product. 
@@ -11,3 +11,6 @@
 - Uses the concept of group technology (GT), in which similar parts are identified and grouped together to take advantage of their similarities in production.
 - Dissimilar machines or activities are grouped into cells, to process families of parts with similar requirements. 
 - The cells are arranged in relation to each other so that material movement is minimized.
+
+---
+#incomplete

@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [[Inventory Management]] > Economic Order Quantity (EOQ)
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Inventory Management](obsidian://open?vault=5aabe01b2a639311&file=Inventory%20Management) > Economic Order Quantity (EOQ)
 
 ---
 A classic model developed to minimize total annual inventory cost
@@ -61,3 +61,6 @@ $$R = dL$$
 	- $d$ = demand rate per period = $\frac{D}{\text{Time Period}}$
 	- $L$ = lead time
 	- Safety Stock = Stack held in excess of expected demand due to variable demand rate and lead time
+
+---
+#incomplete

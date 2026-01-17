@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) >  [[Engine]] > Spark Igniton Engine
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Engines, Motors & Mobility](obsidian://open?vault=5aabe01b2a639311&file=Engines,%20Motors%20%26%20Mobility) > [Engine](obsidian://open?vault=5aabe01b2a639311&file=Engine) > Spark Ignition Engine
 
 ---
 - Works on the Otto Cycle
@@ -68,3 +68,5 @@ The air standard cycle for SI engine
 	where,
 		$r$ = Compression ratio
 		$k = \frac{c_p}{c_v}$ = Specific Heat Ratio
+
+---

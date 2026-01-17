@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [[Design of Machine Elements]] > Welding and Permanent Joints
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > Welding and Permanent Joints
 
 ---
 ## Welding
@@ -7,3 +7,5 @@
 ## Types of Joints
 1. [[Butt Joints]]
 2. [[Fillet Joints]]
+
+---
