@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=Saarthak's_Headspace&file=Welding%20and%20Permanent%20Joints) > [[Fillet Joints]] > Eccentric Loading in the Plane of Weld
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Welding%20and%20Permanent%20Joints) > [Fillet Joints](obsidian://open?vault=5aabe01b2a639311&file=Fillet%20Joints) > [Eccentric Loading](obsidian://open?vault=5aabe01b2a639311&file=Eccentric%20Loading) > Eccentric Loading in the Plane of Weld
 
 ---
 ![[Eccentric Loading in the Plane of Weld.png#align-right|Eccentri Loading in Plane of Weld|400]]
@@ -139,3 +139,6 @@ hence,
 $$h=\frac{t}{0.707}=6.55mm\approx7mm$$
 
 
+
+
+---

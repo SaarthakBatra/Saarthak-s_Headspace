@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=Saarthak's_Headspace&file=Welding%20and%20Permanent%20Joints) > [[Fillet Joints]] > Eccentric Loading Perpendicular to Weld
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Welding%20and%20Permanent%20Joints) > [Fillet Joints](obsidian://open?vault=5aabe01b2a639311&file=Fillet%20Joints) > [Eccentric Loading](obsidian://open?vault=5aabe01b2a639311&file=Eccentric%20Loading) > Torsional Moment on Weld
 
 ---
 ![[Torsional Moment on Weld.png#align-right|400]]
@@ -16,3 +16,7 @@ The polar moment of inertia is given as,
 $$J=I_{xx}+I_{yy}=2\pi tr^3$$
 The torsional shear stress in weld is given as,
 $$\tau = \frac{M_tr}{J} = \frac{M_tr}{2\pi tr^3}$$
+
+
+---
+#incomplete

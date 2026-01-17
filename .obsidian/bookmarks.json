@@ -38,7 +38,7 @@
               "items": [
                 {
                   "type": "file",
-                  "ctime": 1768549695592,
+                  "ctime": 1768649926598,
                   "path": "Subjects/Mechanical Engineering/Mechanical Engineering.md",
                   "subpath": "#^-"
                 },
@@ -51,32 +51,6 @@
                       "ctime": 1768550026868,
                       "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Design of Machine Elements.md",
                       "subpath": "#^-"
-                    },
-                    {
-                      "type": "group",
-                      "ctime": 1768550780057,
-                      "items": [
-                        {
-                          "type": "file",
-                          "ctime": 1768550780057,
-                          "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Screws, Fasteners, and the Design of Non-permanent Joints.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "group",
-                          "ctime": 1768550793434,
-                          "items": [
-                            {
-                              "type": "file",
-                              "ctime": 1768550793434,
-                              "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Bolted Joints under Eccentric Loading/Bolted & Riveted Joints under Eccentric Loading.md",
-                              "subpath": "#^-"
-                            }
-                          ],
-                          "title": "Bolted Joints under Eccentric Loading"
-                        }
-                      ],
-                      "title": "Screws, Fasteners, and the Design of Non-permanent Joints"
                     },
                     {
                       "type": "group",
@@ -103,6 +77,32 @@
                         }
                       ],
                       "title": "Welding and Permanent Joints"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1768550780057,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1768550780057,
+                          "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Screws, Fasteners, and the Design of Non-permanent Joints.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1768550793434,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1768550793434,
+                              "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Bolted Joints under Eccentric Loading/Bolted & Riveted Joints under Eccentric Loading.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Bolted Joints under Eccentric Loading"
+                        }
+                      ],
+                      "title": "\\\\Screws, Fasteners, and the Design of Non-permanent Joints"
                     }
                   ],
                   "title": "Design of Machine Elements"

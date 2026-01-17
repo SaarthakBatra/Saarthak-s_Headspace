@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=Saarthak's_Headspace&file=Welding%20and%20Permanent%20Joints) > [[Fillet Joints]] > Bending Moment on Weld
+[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Welding%20and%20Permanent%20Joints) > [Fillet Joints](obsidian://open?vault=5aabe01b2a639311&file=Fillet%20Joints) > [Eccentric Loading](obsidian://open?vault=5aabe01b2a639311&file=Eccentric%20Loading) > Bending Moment on Weld
 
 ---
 ![[Bending Moment on Weld-1.png#align-right|400]]
@@ -89,3 +89,7 @@ The permissible shear stress gives, $\tau = 100 = \frac{513.26}{t}$ $\implies t=
 hence,
 $$h=\frac{t}{0.707}=7.26mm\approx8mm$$
 
+
+
+---
+#incomplete
