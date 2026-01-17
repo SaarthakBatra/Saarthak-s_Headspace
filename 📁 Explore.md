@@ -3,11 +3,9 @@
 2. [[Computer Science]]
 3. [[Mechanical Engineering]]
 
-## Templates
-1. [New Note](obsidian://open?vault=Saarthak's_Headspace&file=New%20Note)
-
 ## Misc
 1. [[README]]
+2. [[🧬Templates]]
 
 # Sciences
 1. [[Physics]]

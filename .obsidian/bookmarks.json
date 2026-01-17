@@ -19,7 +19,14 @@
         {
           "type": "group",
           "ctime": 1768547629928,
-          "items": [],
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1768658138207,
+              "path": "🧬Templates/🧬Templates.md",
+              "subpath": "#^-"
+            }
+          ],
           "title": "🧬Templates"
         },
         {
