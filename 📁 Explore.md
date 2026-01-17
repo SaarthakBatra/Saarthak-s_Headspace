@@ -4,7 +4,7 @@
 3. [[Mechanical Engineering]]
 
 ## Templates
-1. [[New Note]]
+1. [New Note](obsidian://open?vault=5aabe01b2a639311&file=New%20Note)
 
 ## Misc
 1. [[README]]
