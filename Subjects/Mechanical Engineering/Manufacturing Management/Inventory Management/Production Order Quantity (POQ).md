@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Inventory Management](obsidian://open?vault=5aabe01b2a639311&file=Inventory%20Management) > Production Order Quantity (POQ)
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=Saarthak's_Headspace&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=Saarthak's_Headspace&file=Manufacturing%20Management) > [Inventory Management](obsidian://open?vault=Saarthak's_Headspace&file=Inventory%20Management) > Production Order Quantity (POQ)
 
 ---
 Used when units are produced and sold simultaneously i.e order is received gradually as inventory is simultaneously depleted

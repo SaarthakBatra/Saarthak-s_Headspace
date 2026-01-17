@@ -1,1 +1,1 @@
-[Subjects](obsidian://open?vault=5aabe01b2a639311&file=Subjects) > [[Physics]] > Untitled
+[Subjects](obsidian://open?vault=Saarthak's_Headspace&file=Subjects) > [[Physics]] > Untitled

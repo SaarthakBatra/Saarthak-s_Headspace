@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Forecasting Methods](obsidian://open?vault=5aabe01b2a639311&file=Forecasting%20Methods) > [Quantitative Methods](obsidian://open?vault=5aabe01b2a639311&file=Quantitative%20Methods) > Moving Average Forecasts
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=Saarthak's_Headspace&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=Saarthak's_Headspace&file=Manufacturing%20Management) > [Forecasting Methods](obsidian://open?vault=Saarthak's_Headspace&file=Forecasting%20Methods) > [Quantitative Methods](obsidian://open?vault=Saarthak's_Headspace&file=Quantitative%20Methods) > Moving Average Forecasts
 
 ---
 Forecast is the average of previous months

@@ -1,6 +1,6 @@
 <%*
 // --- CONFIGURATION ---
-const vaultId = "5aabe01b2a639311";
+const vaultId = "Saarthak's_Headspace";
 // ---------------------
 
 // 1. Prompt for the new file name // Defaults to the current name (e.g., "Untitled") if you hit Esc 

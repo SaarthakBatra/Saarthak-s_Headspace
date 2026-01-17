@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=5aabe01b2a639311&file=Manufacturing%20Management) > [Planning Facilities](obsidian://open?vault=5aabe01b2a639311&file=Planning%20Facilities) > Product Layouts
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=Saarthak's_Headspace&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=Saarthak's_Headspace&file=Manufacturing%20Management) > [Planning Facilities](obsidian://open?vault=Saarthak's_Headspace&file=Planning%20Facilities) > Product Layouts
 
 ---
 - Product layout arranges machines or workers in a line according to the sequence of operations that need to be performed to assemble a particular product. 

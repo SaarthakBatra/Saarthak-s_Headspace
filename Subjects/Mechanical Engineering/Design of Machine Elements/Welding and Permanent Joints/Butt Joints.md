@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=5aabe01b2a639311&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=5aabe01b2a639311&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=5aabe01b2a639311&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=5aabe01b2a639311&file=Welding%20and%20Permanent%20Joints) > Butt Joints
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=Saarthak's_Headspace&file=Mechanical%20Engineering) > [Design of Machine Elements](obsidian://open?vault=Saarthak's_Headspace&file=Design%20of%20Machine%20Elements) > [Welding and Permanent Joints](obsidian://open?vault=Saarthak's_Headspace&file=Welding%20and%20Permanent%20Joints) > Butt Joints
 
 ---
 ![[Butt Joints - types.png|Types of Butt Joints]]
