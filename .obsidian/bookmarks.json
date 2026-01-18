@@ -12,33 +12,14 @@
         },
         {
           "type": "group",
-          "ctime": 1768547309083,
+          "ctime": 1768741655584,
           "items": [],
-          "title": "📄Resources"
+          "title": "💻Computing"
         },
         {
           "type": "group",
-          "ctime": 1768547629928,
+          "ctime": 1768741441350,
           "items": [
-            {
-              "type": "file",
-              "ctime": 1768658138207,
-              "path": "🧬Templates/🧬Templates.md",
-              "subpath": "#^-"
-            }
-          ],
-          "title": "🧬Templates"
-        },
-        {
-          "type": "group",
-          "ctime": 1768547625060,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1768549547717,
-              "items": [],
-              "title": "Computer Science"
-            },
             {
               "type": "group",
               "ctime": 1768549547717,
@@ -46,7 +27,7 @@
                 {
                   "type": "file",
                   "ctime": 1768649926598,
-                  "path": "Subjects/Mechanical Engineering/Mechanical Engineering.md",
+                  "path": "🚀Engineering/Mechanical Engineering/Mechanical Engineering.md",
                   "subpath": "#^-"
                 },
                 {
@@ -56,7 +37,7 @@
                     {
                       "type": "file",
                       "ctime": 1768550026868,
-                      "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Design of Machine Elements.md",
+                      "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Design of Machine Elements.md",
                       "subpath": "#^-"
                     },
                     {
@@ -66,7 +47,7 @@
                         {
                           "type": "file",
                           "ctime": 1768551680652,
-                          "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Welding and Permanent Joints.md",
+                          "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Welding and Permanent Joints.md",
                           "subpath": "#^-"
                         },
                         {
@@ -76,7 +57,7 @@
                             {
                               "type": "file",
                               "ctime": 1768551759118,
-                              "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Fillet Joints/Fillet Joints.md",
+                              "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Welding and Permanent Joints/Fillet Joints/Fillet Joints.md",
                               "subpath": "#^-"
                             }
                           ],
@@ -92,7 +73,7 @@
                         {
                           "type": "file",
                           "ctime": 1768550780057,
-                          "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Screws, Fasteners, and the Design of Non-permanent Joints.md",
+                          "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Screws, Fasteners, and the Design of Non-permanent Joints.md",
                           "subpath": "#^-"
                         },
                         {
@@ -102,7 +83,7 @@
                             {
                               "type": "file",
                               "ctime": 1768550793434,
-                              "path": "Subjects/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Bolted Joints under Eccentric Loading/Bolted & Riveted Joints under Eccentric Loading.md",
+                              "path": "🚀Engineering/Mechanical Engineering/Design of Machine Elements/Screws, Fasteners, and the Design of Non-permanent Joints/Bolted Joints under Eccentric Loading/Bolted & Riveted Joints under Eccentric Loading.md",
                               "subpath": "#^-"
                             }
                           ],
@@ -121,7 +102,7 @@
                     {
                       "type": "file",
                       "ctime": 1768552360975,
-                      "path": "Subjects/Mechanical Engineering/Engines, Motors & Mobility/Engines, Motors & Mobility.md",
+                      "path": "🚀Engineering/Mechanical Engineering/Engines, Motors & Mobility/Engines, Motors & Mobility.md",
                       "subpath": "#^-"
                     },
                     {
@@ -131,7 +112,7 @@
                         {
                           "type": "file",
                           "ctime": 1768552574587,
-                          "path": "Subjects/Mechanical Engineering/Engines, Motors & Mobility/Engine/Engine.md",
+                          "path": "🚀Engineering/Mechanical Engineering/Engines, Motors & Mobility/Engine/Engine.md",
                           "subpath": "#^-"
                         },
                         {
@@ -141,7 +122,7 @@
                             {
                               "type": "file",
                               "ctime": 1768552583700,
-                              "path": "Subjects/Mechanical Engineering/Engines, Motors & Mobility/Engine/Reciprocating Engine/Reciprocating Engine.md",
+                              "path": "🚀Engineering/Mechanical Engineering/Engines, Motors & Mobility/Engine/Reciprocating Engine/Reciprocating Engine.md",
                               "subpath": "#^-"
                             }
                           ],
@@ -160,7 +141,7 @@
                     {
                       "type": "file",
                       "ctime": 1768557264127,
-                      "path": "Subjects/Mechanical Engineering/Manufacturing Management/Manufacturing Management.md",
+                      "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Manufacturing Management.md",
                       "subpath": "#^-"
                     },
                     {
@@ -170,7 +151,7 @@
                         {
                           "type": "file",
                           "ctime": 1768558463652,
-                          "path": "Subjects/Mechanical Engineering/Manufacturing Management/Inventory Management/Inventory Management.md",
+                          "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Inventory Management/Inventory Management.md",
                           "subpath": "#^-"
                         }
                       ],
@@ -183,7 +164,7 @@
                         {
                           "type": "file",
                           "ctime": 1768558718812,
-                          "path": "Subjects/Mechanical Engineering/Manufacturing Management/Planning Facilities/Planning Facilities.md",
+                          "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Planning Facilities/Planning Facilities.md",
                           "subpath": "#^-"
                         },
                         {
@@ -193,7 +174,7 @@
                             {
                               "type": "file",
                               "ctime": 1768557893898,
-                              "path": "Subjects/Mechanical Engineering/Manufacturing Management/Planning Facilities/Product Layouts/Product Layouts.md",
+                              "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Planning Facilities/Product Layouts/Product Layouts.md",
                               "subpath": "#^-"
                             }
                           ],
@@ -209,7 +190,7 @@
                         {
                           "type": "file",
                           "ctime": 1768558964079,
-                          "path": "Subjects/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Forecasting Methods.md",
+                          "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Forecasting Methods.md",
                           "subpath": "#^-"
                         },
                         {
@@ -219,7 +200,7 @@
                             {
                               "type": "file",
                               "ctime": 1768558212519,
-                              "path": "Subjects/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Quantitative Methods/Quantitative Methods.md",
+                              "path": "🚀Engineering/Mechanical Engineering/Manufacturing Management/Forecasting Methods/Quantitative Methods/Quantitative Methods.md",
                               "subpath": "#^-"
                             }
                           ],
@@ -235,13 +216,89 @@
               "title": "Mechanical Engineering"
             }
           ],
-          "title": "Subjects"
+          "title": "🚀Engineering"
         },
         {
-          "type": "file",
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "💸Finance & Trading"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "愛Natural Languages"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "🏠Personal"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "🤖Projects"
+        },
+        {
+          "type": "group",
           "ctime": 1768547309083,
-          "path": "README.md",
-          "subpath": "#^-"
+          "items": [],
+          "title": "📄Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "🧠Sciences"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741520632,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1768728178966,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768728178966,
+                  "path": "👩🏻‍💻Software & Tools/Linux/Linux.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Linux"
+            },
+            {
+              "type": "group",
+              "ctime": 1768727671282,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768727671282,
+                  "path": "👩🏻‍💻Software & Tools/Obsidian/Obsidian.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Obsidian"
+            }
+          ],
+          "title": "👩🏻‍💻Software & Tools"
+        },
+        {
+          "type": "group",
+          "ctime": 1768547629928,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1768658138207,
+              "path": "🧬Templates/🧬Templates.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "🧬Templates"
         }
       ],
       "title": "sortspec"

@@ -38,5 +38,6 @@
     "obsidian-git:pull",
     "obsidian-git:push"
   ],
-  "rightToLeft": false
+  "rightToLeft": false,
+  "promptDelete": false
 }
