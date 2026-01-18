@@ -1,7 +1,0 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Mechanical Engineering](obsidian://open?vault=Saarthak's_Headspace&file=Mechanical%20Engineering) > [Manufacturing Management](obsidian://open?vault=Saarthak's_Headspace&file=Manufacturing%20Management) > [Forecasting Methods](obsidian://open?vault=Saarthak's_Headspace&file=Forecasting%20Methods) > [Quantitative Methods](obsidian://open?vault=Saarthak's_Headspace&file=Quantitative%20Methods) > Naive
-
----
-Forecast for any period equals the previous period's actual value
-
----
-#incomplete
