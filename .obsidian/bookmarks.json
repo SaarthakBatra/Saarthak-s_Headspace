@@ -12,6 +12,25 @@
         },
         {
           "type": "group",
+          "ctime": 1768547309083,
+          "items": [],
+          "title": "📄Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1768547629928,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1768658138207,
+              "path": "🧬Templates/🧬Templates.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "🧬Templates"
+        },
+        {
+          "type": "group",
           "ctime": 1768741655584,
           "items": [],
           "title": "💻Computing"
@@ -222,6 +241,12 @@
           "type": "group",
           "ctime": 1768741655584,
           "items": [],
+          "title": "🧠Sciences"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
           "title": "💸Finance & Trading"
         },
         {
@@ -229,30 +254,6 @@
           "ctime": 1768741655584,
           "items": [],
           "title": "愛Natural Languages"
-        },
-        {
-          "type": "group",
-          "ctime": 1768741655584,
-          "items": [],
-          "title": "🏠Personal"
-        },
-        {
-          "type": "group",
-          "ctime": 1768741655584,
-          "items": [],
-          "title": "🤖Projects"
-        },
-        {
-          "type": "group",
-          "ctime": 1768547309083,
-          "items": [],
-          "title": "📄Resources"
-        },
-        {
-          "type": "group",
-          "ctime": 1768741655584,
-          "items": [],
-          "title": "🧠Sciences"
         },
         {
           "type": "group",
@@ -289,16 +290,15 @@
         },
         {
           "type": "group",
-          "ctime": 1768547629928,
-          "items": [
-            {
-              "type": "file",
-              "ctime": 1768658138207,
-              "path": "🧬Templates/🧬Templates.md",
-              "subpath": "#^-"
-            }
-          ],
-          "title": "🧬Templates"
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "🤖Projects"
+        },
+        {
+          "type": "group",
+          "ctime": 1768741655584,
+          "items": [],
+          "title": "🏠Personal"
         }
       ],
       "title": "sortspec"
