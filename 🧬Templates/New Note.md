@@ -101,4 +101,7 @@ if (breadcrumbParts.length > 0) {
 
 
 ---
+# References
+
+# Tags
 #incomplete

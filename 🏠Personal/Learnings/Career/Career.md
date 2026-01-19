@@ -5,4 +5,8 @@
 2. Future careers would be a culmination of experiences. You can start as a teacher, then become office, then startup, then back to a new industry office and so on
 
 ---
+# References 
+1. [Power of Office Politics, Salary Negotiation & Career Growth Sandeep Das FO455 Ra Shamani](https://youtu.be/JOsrihef5gM)
+
+# Tags
 #incomplete
