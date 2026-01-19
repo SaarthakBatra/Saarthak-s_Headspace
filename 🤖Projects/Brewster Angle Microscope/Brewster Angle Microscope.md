@@ -14,7 +14,10 @@
 4. The presence of very small amounts of material on the water surface will affect the Brewster condition so that (in most cases) the reflectivity goes up. Regions differing in density or orientation of molecules on the surface will therefore show up by virtue of their optical contrast.
 5. One problem inherent to the BAM is that the surface must be viewed under an angle. In a conventional linear arrangement of the viewing optics, it is then impossible to focus simultaneously on the entire area of interest.
 6. Moreover, viewing under an angle obviously yields images compressed along the line of sight. Meunier solved these problems by confocal scanning of the area of interest, retaining only narrow strips around the focal line
-7. [[Available Industrial Products]]
+## Types
+1. [[BAM with QELS]]
+## Resources
+1. [[Available Industrial Products]]
 ---
 # References
 1. [Design and Testing of a Low-Cost and Compact Brewster Angle Microscope](https://www.tu-chemnitz.de/physik/OSMP/Soft/ws0607_ue05a.pdf)
