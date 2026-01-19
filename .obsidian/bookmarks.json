@@ -291,7 +291,34 @@
         {
           "type": "group",
           "ctime": 1768741655584,
-          "items": [],
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1768820008308,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1768820496048,
+                  "path": "🤖Projects/Brewster Angle Microscope/Brewster Angle Microscope.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768820008308,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768820008308,
+                      "path": "🤖Projects/Brewster Angle Microscope/Available Industrial Products/Available Industrial Products.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "\\\\Available Industrial Products"
+                }
+              ],
+              "title": "Brewster Angle Microscope"
+            }
+          ],
           "title": "🤖Projects"
         },
         {
