@@ -1,7 +1,25 @@
 # Union merge strategy for markdown files
-# This preserves BOTH changes from conflicting edits
 *.md merge=union
 
-# Keep line endings consistent across platforms
-* text eol=lf
+# Binary files - NEVER treat as text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.tar.gz binary
+
+# Text files - keep line endings consistent
+*.md text eol=lf
+*.txt text eol=lf
+*.sh text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.py text eol=lf
 *.bat text eol=crlf
+
+# Default: auto-detect, don't force text
+* text=auto
