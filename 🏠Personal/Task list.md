@@ -4,7 +4,7 @@
 - [ ] 10 new clients
 - [ ] cope light
 - [ ] shivasheesh sir diagram
-- [ ] bam
+- [x] bam
 - [ ] MCN
 - [ ] dad website
 
