@@ -6,12 +6,6 @@
       "items": [
         {
           "type": "file",
-          "ctime": 1768887545404,
-          "path": "Task list.md",
-          "subpath": "#^-"
-        },
-        {
-          "type": "file",
           "ctime": 1768547295888,
           "path": "📁 Explore.md",
           "subpath": "#^-"
@@ -332,21 +326,15 @@
           "ctime": 1768741655584,
           "items": [],
           "title": "🏠Personal"
+        },
+        {
+          "type": "file",
+          "ctime": 1768887664894,
+          "path": "Task list.md",
+          "subpath": "#^-"
         }
       ],
       "title": "sortspec"
-    },
-    {
-      "type": "file",
-      "ctime": 1768887545404,
-      "path": "Task list.md",
-      "subpath": "#^-"
-    },
-    {
-      "type": "file",
-      "ctime": 1768887459217,
-      "path": "Task list.md",
-      "subpath": "#^-"
     }
   ]
 }
