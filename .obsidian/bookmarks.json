@@ -314,6 +314,19 @@
                     }
                   ],
                   "title": "\\\\Available Industrial Products"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1768998464507,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1768998464507,
+                      "path": "🤖Projects/Brewster Angle Microscope/INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM/INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM"
                 }
               ],
               "title": "Brewster Angle Microscope"

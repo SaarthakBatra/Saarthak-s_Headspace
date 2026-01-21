@@ -7,6 +7,7 @@
 - [x] bam
 - [ ] MCN
 - [ ] dad website
+- [ ] Intro to large language models - https://www.youtube.com/watch?v=zjkBMFhNj_g
 
 ---
 #incomplete
