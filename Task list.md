@@ -8,6 +8,9 @@
 - [ ] MCN
 - [ ] dad website
 - [ ] Intro to large language models - https://www.youtube.com/watch?v=zjkBMFhNj_g
-
+- [ ] Tracking app using cell tower as main andand gps as secondary for family security
+- [ ] Hindi chatting app
+- [ ] Sanskrit AI midel
+- [ ] Lawyer AI
 ---
 #incomplete
