@@ -16,5 +16,6 @@
 - [ ] A wbsite for training a fun AI model (race cars, walking, expansion). User can select parameters and start training on a task
 - [ ] Learn about training GPTs
 - [ ] Engineer AI
+- [ ] Portable and cheap weather stations for accurate data collection directly uploaded to OGmet
 ---
 #incomplete
