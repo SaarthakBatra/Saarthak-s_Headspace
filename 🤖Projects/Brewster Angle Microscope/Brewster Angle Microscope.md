@@ -18,6 +18,9 @@
 1. [[BAM with QELS]]
 ## Resources
 1. [[Available Industrial Products]]
+
+## Projects
+1. [[INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM]]
 ---
 # References
 1. [Design and Testing of a Low-Cost and Compact Brewster Angle Microscope](https://www.tu-chemnitz.de/physik/OSMP/Soft/ws0607_ue05a.pdf)

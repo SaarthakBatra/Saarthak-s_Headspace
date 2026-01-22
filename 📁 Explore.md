@@ -1,10 +1,10 @@
 ## Sciences
-1. Physics 
+1. [[Physics]]
 2. Chemistry
 3. Biology
 4. Materials Science
 ## Engineering
-1. Mechanical
+1. [[Mechanical Engineering]]
 2. Biotech
 3. Civil
 ## Computing
@@ -15,20 +15,21 @@
 	4. C
 	5. C++
 	6. Bash
-2. Computer Science
-3. Software Development
-4. Systems Architecture
-5. Data Structures & Algorithms
-6. Web Development
-7. DevOps
+2. [[Computer Science]]
+3. [[Large Language Models]]
+4. Software Development
+5. Systems Architecture
+6. Data Structures & Algorithms
+7. Web Development
+8. DevOps
 ## Finance & Trading
 1. Trading
 ## Natural Languages
 1. Sanskrit
 2. Japanese
 ## Software & Tools
-1. Linux
-2. Obsidian
+1. [[Linux]]
+2. [[Obsidian]]
 3. Photoshop
 4. VS Code
 5. Git
@@ -39,10 +40,12 @@
 3. Metadrix
 4. TBM Traders
 ## Personal
-1. [[Quotes]]
-2. [[Trips]]
-3. [[Interview]]
+1. [[Learnings]]
+2. [[Quotes]]
+3. [[Trips]]
+4. [[Interview]]
 
 ## Misc
 1. [[README]]
 2. [[🧬Templates]]
+3. [[Task list]]

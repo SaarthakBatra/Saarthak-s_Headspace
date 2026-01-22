@@ -390,6 +390,19 @@
                 }
               ],
               "title": "Interview"
+            },
+            {
+              "type": "group",
+              "ctime": 1769097831545,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769097831545,
+                  "path": "🏠Personal/Learnings/Learnings.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Learnings"
             }
           ],
           "title": "🏠Personal"
