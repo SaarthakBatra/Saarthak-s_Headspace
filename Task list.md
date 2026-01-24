@@ -17,5 +17,6 @@
 - [ ] Learn about training GPTs
 - [ ] Engineer AI
 - [ ] Portable and cheap weather stations for accurate data collection directly uploaded to OGmet
+- [ ] https://youtu.be/67zh8_yiPh4?si=cCxlFsK5svnAV2hy
 ---
 #incomplete
