@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > Brewster Angle Microscope
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Projects](obsidian://open?vault=Saarthak's_Headspace&file=Projects) > Brewster Angle Microscope
 
 ---
 ![[Brewster Angle Microscope_Represntation.png#align-right|Schematic of the experimental set up of Brewster angle microscopy (A). Schematic diagram of the principle of Brewster angle microscopy (B).|350x400]]

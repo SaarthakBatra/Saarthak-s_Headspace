@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Brewster Angle Microscope](obsidian://open?vault=Saarthak's_Headspace&file=Brewster%20Angle%20Microscope) > [INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM](obsidian://open?vault=Saarthak's_Headspace&file=INDUSTRY-LEVEL%20BREWSTER%20ANGLE%20MICROSCOPE%20(BAM)%20–%20RASPBERRY%20PI%20IMAGING%20%26%20CONTROL%20SYSTEM) > Raspberry Pi + Camera Setup
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Projects](obsidian://open?vault=Saarthak's_Headspace&file=Projects) > [Brewster Angle Microscope](obsidian://open?vault=Saarthak's_Headspace&file=Brewster%20Angle%20Microscope) > [INDUSTRY-LEVEL BREWSTER ANGLE MICROSCOPE (BAM) – RASPBERRY PI IMAGING & CONTROL SYSTEM](obsidian://open?vault=Saarthak's_Headspace&file=INDUSTRY-LEVEL%20BREWSTER%20ANGLE%20MICROSCOPE%20(BAM)%20–%20RASPBERRY%20PI%20IMAGING%20%26%20CONTROL%20SYSTEM) > Raspberry Pi + Camera Setup
 
 ---
 ## PART 1: MICROSD CARD SELECTION & PREPARATION

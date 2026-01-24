@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Brewster Angle Microscope](obsidian://open?vault=Saarthak's_Headspace&file=Brewster%20Angle%20Microscope) > [Available Industrial Products](obsidian://open?vault=Saarthak's_Headspace&file=Available%20Industrial%20Products) > Kibron G-BAM
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Projects](obsidian://open?vault=Saarthak's_Headspace&file=Projects) > [Brewster Angle Microscope](obsidian://open?vault=Saarthak's_Headspace&file=Brewster%20Angle%20Microscope) > [Available Industrial Products](obsidian://open?vault=Saarthak's_Headspace&file=Available%20Industrial%20Products) > Kibron G-BAM
 
 ---
 ![[Kibron G-BAM_6.png]]

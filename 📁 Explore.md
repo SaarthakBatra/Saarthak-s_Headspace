@@ -34,11 +34,8 @@
 4. VS Code
 5. Git
 6. Postman
-## Projects
-1. [[Brewster Angle Microscope]]
-2. Agro Myco Insulation Panels
-3. Metadrix
-4. TBM Traders
+## [[Projects]]
+
 ## Personal
 1. [[Learnings]]
 2. [[Quotes]]

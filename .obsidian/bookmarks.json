@@ -320,6 +320,12 @@
           "ctime": 1768741655584,
           "items": [
             {
+              "type": "file",
+              "ctime": 1769156107913,
+              "path": "🤖Projects/Projects.md",
+              "subpath": "#^-"
+            },
+            {
               "type": "group",
               "ctime": 1768820008308,
               "items": [
@@ -357,6 +363,19 @@
                 }
               ],
               "title": "Brewster Angle Microscope"
+            },
+            {
+              "type": "group",
+              "ctime": 1769156042962,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1769156042962,
+                  "path": "🤖Projects/Heat Exchanger/Heat Exchanger.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Heat Exchanger"
             }
           ],
           "title": "🤖Projects"

@@ -1,4 +1,4 @@
-[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Brewster Angle Microscope](obsidian://open?vault=Saarthak's_Headspace&file=Brewster%20Angle%20Microscope) > BAM with QELS
+[📁 Explore](obsidian://open?vault=Saarthak's_Headspace&file=📁%20Explore) > [Projects](obsidian://open?vault=Saarthak's_Headspace&file=Projects) > [Brewster Angle Microscope](obsidian://open?vault=Saarthak's_Headspace&file=Brewster%20Angle%20Microscope) > BAM with QELS
 
 ---
 ![[BAM with QELS_Setup.png#align_right|BAM with QELS Setup|350x300]]
