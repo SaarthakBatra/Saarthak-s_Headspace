@@ -18,5 +18,10 @@
 - [ ] Engineer AI
 - [ ] Portable and cheap weather stations for accurate data collection directly uploaded to OGmet
 - [ ] https://youtu.be/67zh8_yiPh4?si=cCxlFsK5svnAV2hy
+- [ ] Blue collar consulting plan of action
+- [ ] 2d scrolling insta clone
+- [ ] Finish agro myco  report
+- [ ] Create agro myco presentation
+- [ ] Apply for funding
 ---
 #incomplete
